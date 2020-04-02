@@ -1,0 +1,1197 @@
+{
+    "Timestamp": "2020-03-31T19:41:21.2868173+05:30",
+    "Level": "Information",
+    "MessageTemplate": "Application Starting up...",
+    "Properties": {
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 1
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8415709+05:30",
+    "Level": "Information",
+    "MessageTemplate": "You have requested for Index page.",
+    "Properties": {
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8481880+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 0,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8523961+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 1,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8532308+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 2,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8540304+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 3,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8548124+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 4,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8559229+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 5,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8567953+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 6,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8581530+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 7,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8598617+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 8,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8605860+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 9,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8612048+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 10,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8619379+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 11,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8625825+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 12,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8634491+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 13,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8642018+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 14,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8649446+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 15,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8656240+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 16,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8662672+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 17,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8669696+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 18,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8675888+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 19,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8682046+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 20,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8689050+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 21,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8696219+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 22,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8703717+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 23,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8715593+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 24,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8726268+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 25,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8734132+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 26,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8742348+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 27,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8750476+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 28,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8790792+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 29,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8800831+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 30,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8810454+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 31,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8820561+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 32,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8829276+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 33,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8837307+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 34,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8845703+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 35,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8853337+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 36,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8863142+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 37,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8877696+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 38,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8891762+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 39,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8910110+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 40,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8934943+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 41,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8944336+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 42,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8954659+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 43,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8962543+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 44,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8970651+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 45,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8979072+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 46,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8987674+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 47,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.8995518+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 48,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9005553+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 49,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9020723+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 50,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9037541+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 51,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9052770+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 52,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9068435+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 53,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9084754+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 54,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9117578+05:30",
+    "Level": "Information",
+    "MessageTemplate": "The value of i is  {iVariable}",
+    "Properties": {
+        "iVariable": 55,
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:25.9885981+05:30",
+    "Level": "Error",
+    "MessageTemplate": "We caught this exception in Inedex->OnGet() method...",
+    "Exception": "System.Exception: This is a demo exception in OnGet() method<-- Index page.\r\n   at SeriLogDemo.Pages.IndexModel.OnGet() in F:\\POC\\Core\\Web\\POC\\Core.SeriLogDemoApp\\SeriLogDemo\\Pages\\Index.cshtml.cs:line 33",
+    "Properties": {
+        "SourceContext": "SeriLogDemo.Pages.IndexModel",
+        "ActionId": "2893522b-3c67-4c18-8808-8385027de3f0",
+        "ActionName": "/Index",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "RequestPath": "/",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    }
+}
+{
+    "Timestamp": "2020-03-31T19:41:26.2283998+05:30",
+    "Level": "Information",
+    "MessageTemplate": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+    "Properties": {
+        "RequestMethod": "GET",
+        "RequestPath": "/",
+        "StatusCode": 200,
+        "Elapsed": 608.0592400279759,
+        "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+        "RequestId": "0HLULFLIA691V:00000001",
+        "SpanId": "|3590bd50-42641f66bb5260fc.",
+        "TraceId": "3590bd50-42641f66bb5260fc",
+        "ParentId": "",
+        "ConnectionId": "0HLULFLIA691V",
+        "MachineName": "SRVMNTDB3",
+        "ProcessId": 9060,
+        "ThreadId": 4
+    },
+    "Renderings": {
+        "Elapsed": [
+            {
+                "Format": "0.0000",
+                "Rendering": "608.0592"
+            }
+        ]
+    }
+}
